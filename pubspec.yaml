@@ -38,6 +38,7 @@ dependencies:
   lottie:
   google_sign_in:
   flutter_facebook_auth:
+  firebase_core:
 
 dev_dependencies:
   flutter_test:
